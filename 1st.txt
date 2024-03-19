@@ -1,5 +1,3 @@
-NAMES
-harsh
-ram 
-sham
 local file changed durig conflict
+own activity conflict
+
